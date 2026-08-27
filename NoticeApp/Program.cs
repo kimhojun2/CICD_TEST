@@ -8,8 +8,8 @@ namespace NoticeApp
     public class LocalNoticeModel
     {
         public string Title { get; set; } = "시스템 공지사항";
-        public string Version { get; set; } = "v1.0.0";
-        public string Content { get; set; } = "공룡 알 테마 업데이트가 완료되었습니다.\r\n\r\n- UI/UX 파스텔 톤 적용\r\n- 모듈 통합 연동 완료\r\n- 창 크기 조절 기능 유지\r\n- 커스텀 초록색 스크롤바 손잡이 적용 완료\r\n\r\n스크롤 테스트를 위한 추가 텍스트입니다.\r\n창을 줄이거나 내용을 늘리면 초록색 스크롤바를 조작할 수 있습니다.\r\n감사합니다.";
+        public string Version { get; set; } = "v1.0.1";
+        public string Content { get; set; } = "이 내용은 Jenkins 자동 빌드입니다.\r\n감사합니다.";
     }
 
     // 초록색 테마 커스텀 스크롤바 클래스
