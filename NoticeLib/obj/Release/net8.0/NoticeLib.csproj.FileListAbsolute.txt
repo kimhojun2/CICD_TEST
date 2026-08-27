@@ -1,0 +1,11 @@
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\bin\Release\net8.0\NoticeLib.deps.json
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\bin\Release\net8.0\NoticeLib.dll
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\bin\Release\net8.0\NoticeLib.pdb
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.AssemblyInfoInputs.cache
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.AssemblyInfo.cs
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.csproj.CoreCompileInputs.cache
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.dll
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\refint\NoticeLib.dll
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\NoticeLib.pdb
+C:\Users\hojoo\source\repos\Test_Application\NoticeLib\obj\Release\net8.0\ref\NoticeLib.dll

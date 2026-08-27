@@ -1,0 +1,16 @@
+C:\Users\hojoo\source\repos\Test_Application\MainApp\bin\Release\net8.0-windows\MainApp.exe
+C:\Users\hojoo\source\repos\Test_Application\MainApp\bin\Release\net8.0-windows\MainApp.deps.json
+C:\Users\hojoo\source\repos\Test_Application\MainApp\bin\Release\net8.0-windows\MainApp.runtimeconfig.json
+C:\Users\hojoo\source\repos\Test_Application\MainApp\bin\Release\net8.0-windows\MainApp.dll
+C:\Users\hojoo\source\repos\Test_Application\MainApp\bin\Release\net8.0-windows\MainApp.pdb
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.Form1.resources
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.csproj.GenerateResource.cache
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.AssemblyInfoInputs.cache
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.AssemblyInfo.cs
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.dll
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\refint\MainApp.dll
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.pdb
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\MainApp.genruntimeconfig.cache
+C:\Users\hojoo\source\repos\Test_Application\MainApp\obj\Release\net8.0-windows\ref\MainApp.dll
